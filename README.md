@@ -37,7 +37,7 @@ Choose "Use network address translation (NAT)" as the Network Type and click nex
 Choose "LSI Logic SAS (Recommended)" as the I/O Controller Type and click next.<br/>
 Choose "NVMe (Recommended)" as the Disk Type and click next.<br/>
 Choose "Create a new virtual disk" on the Select a Disk screen and click next.<br/>
-Leave "Disk Capacity" as the recommended amount which is 60GB and click next.<br/>
+Leave "Disk Capacity" as the recommended amount which is 60GB and select "Split virtual disk into multiple files", then click next. <br/>
 Leave "Disk File" as default and click next.<br/>
 Verify the following setting and click finish.<br/>
 <img src="https://i.imgur.com/FIvPUDx.png" height="60%" width="60%"/>
