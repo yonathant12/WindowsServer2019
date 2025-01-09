@@ -14,7 +14,7 @@ Setting up a Windows Server 2019 on VMware Workstation 17 Pro involves creating 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/L7q5mZ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L7q5mZ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
