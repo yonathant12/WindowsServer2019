@@ -1,7 +1,7 @@
 <h1>Setting up Windows 2019 Server</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Setting up a Windows Server 2019 on VMware Workstation 17 Pro involves creating a new virtual machine, configuring hardware resources, installing the server OS from an ISO file, and performing initial setup tasks such as installing VMware Tools, assigning a static IP, and renaming the machine.
 <br />
 
 
@@ -14,7 +14,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/L7q5mZ5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
