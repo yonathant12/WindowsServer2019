@@ -1,4 +1,4 @@
-<h1>Network Design</h1>
+<h1>Setting Up Windows Server 2019</h1>
 
 <h2>Description</h2>
 Setting up a Windows Server 2019 on VMware Workstation 17 Pro involves creating a new virtual machine, configuring hardware resources, installing the server OS from an ISO file, and performing initial setup tasks such as installing VMware Tools, assigning a static IP, and renaming the machine.
