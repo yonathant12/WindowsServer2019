@@ -7,7 +7,8 @@ Setting up a Windows Server 2019 on VMware Workstation 17 Pro involves creating 
 
 <h2>Application Used</h2>
 
-- <b>Cisco Packet Tracer</b>
+- <b>VMware Workstation 17 Pro</b>
+- <b>Windows Server 2019</b> 
 
 <h2>Lab walk-through:</h2>
 
